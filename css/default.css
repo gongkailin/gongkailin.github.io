@@ -4,7 +4,7 @@ body{
   font-size:12px;
   overflow:auto;
   font-family: 'Inconsolata' !important;
-  background: url('../img/5.jpg') no-repeat fixed center;
+  background: url('../img/5.jpg') repeat-y fixed center;
   background-size: 100%;
 }
 
